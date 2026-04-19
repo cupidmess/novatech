@@ -1,0 +1,541 @@
+HTTrack3.49-2 launched on Fri, 17 Apr 2026 14:42:43 at https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html
+(httrack https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:43:20	Error: 	Exit requested by shell or user
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/dft-meter-2553391.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/coulometric-measuring-system-226163.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/versatile-bench-top-unit-226175.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/couloscope-cms-step-918737.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/portable-coating-thickness-gauge-1310340.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/benchtop-coating-thickness-guages-2247272.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/portable-coating-thickness-gauges-mp0r-series-1310341.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/beta-backscattering-method-1310342.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/coating-thickness-measurement-for-pcb.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/handheld-pcb-coating-thickness-measurement-device-2580302.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/phascope-pmp10-2580315.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/couloscope-cms-2580310.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/coulometric-thickness-testing-equipment-6229827.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fischerscope-x-ray-xdlm-pcb-210-2580311.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/pcb-coating-thickness-measurement-2580313.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/pcb-coating-measurement-instrument-2580314.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fischerscope-x-ray-xulm-pcb-2580316.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/coating-thickness-measurement-dft-meter.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/dmp10-40-series-deltascope-dft-meter-10685916.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/handheld-gauge-for-coating-thickness-2580296.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fmp100-and-150-premium-handheld-gauges-2580295.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/pocket-coating-thickness-gauges-2580297.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/compact-coating-thickness-gauges-2580301.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/destructive-coating-thickness-measurement-6229828.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/high-precision-probes-2580303.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/material-analysis-instruments.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/goldscope-sd-300-compact-gold-testing-machine-11388014.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/xrf-material-analysis-instrument-2580353.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/material-analysis-instrument-2580354.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/material-analysis-using-xdal-237-2580355.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/material-analysis-using-xan-250-2580357.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/xrf-rohs-analysis-6385106.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/wires-connectors-coating-thickness-measurement.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/coating-thickness-measurement-of-connectors-2580382.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/coating-thickness-measurement-for-wires-2580385.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/wires-coating-thickness-measurement-2580386.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/thin-coating-thickness-measurement-instrument-2580387.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/coating-thickness-measurement-machine-2580383.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/coating-thickness-measurement-electroplating.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fischerscope-x-ray-xul-2580333.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fischerscope-xdv--2580334.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/wafer-lead-frame-coating-thickness-measurement.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/coating-thickness-measurement-2580374.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/wafer-coating-thickness-measurement-2580375.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/lead-frame-coating-thickness-measurement-2580377.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/carat-meter-gold-testing-instruments.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/goldscope-sd-520-dpp--2352015.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/gold-purity-testing-machine-2247273.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fischer-gold-tester-2583676.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/high-accuracy-goldscope-sd-515-gold-testing-machine-2352016.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/goldscope-sd-550-1935508.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/coating-thickness-measurement-bath-analysis.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fischerscope-xdl-2580278.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/bath-analysis-instrument-2580279.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/bath-analysis-using-xdv-sdd-2580280.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/bath-analysis-using-xrf-xan-250-2580281.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/micro-hardness-testing-equipment.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fischerscope-hm2000-s-2580361.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/material-testing-instruments.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/compact-handheld-sigmascope-smp350-electrical-conductivity-tester-226162.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/ferrite-content-measurement-instruments-226173.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/coulometric-method-of-coating-thickness-2247276.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/watches-coating-thickness-measurement-instuments.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/watches-coating-thickness-measurement-instrument-2580379.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fashion-jewellery-testing-machine-2580380.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/pvd-cvd-coating-thickness-measurement-instrument.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fischerscope-x-ray-xdv-sdd-2580365.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/gold-testing-machine-2597255.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fischerscope-x-ray-5000-2580371.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fischerscope-x-ray-xan-250-2580325.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/betascope-2580388.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/feritscope-dmp-30-2580394.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/sealing-quality-.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/sigmascope-smp350-2580392.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/porosity-holiday-detector.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/poroscope.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/micro-hardness-tester-2247274.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/micro-hardness-measurement-instruments-226167.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/corrosion-kit.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/coating-thickness-edxrf.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fischer-xrf-analyzer-6229829.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/xrf-coating-thickness-measurement-6229831.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/tactile-measuring-devices.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/xrf-coating-thickness-measurement-devices.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/mp0-series-permascope-dft-meter-10686456.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/dmp10-40-series-isoscope-dft-meter-10685825.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/dmp10-40-series-dualscope-dft-meter-10685815.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/phascope-pmp10-dft-meter-10686185.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/dualscope-fmp100-dft-meter-10686233.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/dualscope-h-fmp150-dft-meter-10686248.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/mp0-series-dualscope-dft-meter-10686394.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/mp0-series-isoscope-dft-meter-10686419.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/automation.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/nanoindentation.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/send_inquiry_popup.html?catalog_id=
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=2583678
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/images/product-detail-img.png
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/get_catalog_product_details.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/get_logindetails.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/save_inquiry_form.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/save_extra_form.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/send_inquiry_otp.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/update_inquiry_form.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/sitemap.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/utils/sms_now.html?id=ID__1443006__1730398__CATALOG__1024__Catalogs
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/save_quick_inquiry.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/update_quick_inquiry.html
+14:43:20	Warning: 	Moved Permanently for https://www.fischerindia.co.in/Trident/
+14:43:20	Warning: 	File has moved from https://www.fischerindia.co.in/Trident/ to /carat-meter-gold-testing-instruments.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/company-information.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/contact-us.html?ID_15160_1024_6229828=1
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/contact-us.html?ID_15160_942_2583676=1
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/contact-us.html?ID_15160_1024_6229831=1
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/contact-us.html?ID_15160_1024_2583677=1
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/contact-us.html?ID_15160_1024_2583675=1
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/contact-us.html?ID_15160_942_2352016=1
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/contact-us.html?ID_15160_1024_226163=1
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/contact-us.html?ID_15160_1024_226175=1
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/catalog.htm
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/contact-us.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/company-profile.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/products.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/gold-testing-machine.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/coating-thickness-measurement.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/coating-thickness-measurement-for-pcb.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/coating-thickness-measurement-dft-meter.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/material-analysis-instruments.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/wires-connectors-coating-thickness-measurement.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/coating-thickness-measurement-electroplating.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/wafer-lead-frame-coating-thickness-measurement.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/carat-meter-gold-testing-instruments.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/coating-thickness-measurement-bath-analysis.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/micro-hardness-testing-equipment.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/material-testing-instruments.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/coulometric-method-of-coating-thickness-2247276.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/watches-coating-thickness-measurement-instuments.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/pvd-cvd-coating-thickness-measurement-instrument.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/gold-testing-machine-2597255.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/fischerscope-x-ray-5000-2580371.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/fischerscope-x-ray-xan-250-2580325.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/betascope-2580388.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/feritscope-dmp-30-2580394.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/sigmascope-smp350-2580392.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/micro-hardness-tester-2247274.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/micro-hardness-measurement-instruments-226167.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/coating-thickness-edxrf.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/xrf-coating-thickness-measurement-devices.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/images/product-detail-img.png
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/goldscope-sd-510-gold-testing-instrument-2583677.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/goldscope-sd-600-2583679.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/gold-hallmarking-machine-2583680.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/goldscope-sd-600-10686729.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/sealing-quality-.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/porosity-holiday-detector.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/poroscope.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/corrosion-kit.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/tactile-measuring-devices.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/automation.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/nanoindentation.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/CATALOGID/gold-testing-machine.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/goldscope-sd-510-10686805.html
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=10686805
+14:43:20	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=2583677
+14:43:21	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/goldscope-sd-515-gold-testing-machine-2583671.html
+14:43:21	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=2583671
+14:43:21	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=2583679
+14:43:21	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/goldscope-sd-550-dpp--2583675.html
+14:43:21	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=2583675
+14:43:21	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=2583680
+14:43:21	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/gold-and-silver-testing-machine-2583674.html
+14:43:21	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=2583674
+14:43:21	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/goldscope-sd-530-10686764.html
+14:43:21	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=10686764
+14:43:21	Warning: 	Link https://www.fischerindia.co.in/goldscope-sd-520-10686701.html not scanned (follow robots meta tag)
+14:43:21	Warning: 	Link https://www.fischerindia.co.in/goldscope-sd-550-10686704.html not scanned (follow robots meta tag)
+14:43:21	Warning: 	Link https://www.fischerindia.co.in/goldscope-sd-600-10686729.html not scanned (follow robots meta tag)
+14:43:22	Warning: 	Link https://www.fischerindia.co.in/goldscope-sd-515-10686740.html not scanned (follow robots meta tag)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/CATALOGID/coating-thickness-measurement.html
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/coating-thickness-gauges-1310339.html
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/dft-meter-2553391.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/dft-meter-2553391.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/coulometric-measuring-system-226163.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/coulometric-measuring-system-226163.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/versatile-bench-top-unit-226175.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/versatile-bench-top-unit-226175.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/couloscope-cms-step-918737.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/couloscope-cms-step-918737.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/portable-coating-thickness-gauge-1310340.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/portable-coating-thickness-gauge-1310340.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/benchtop-coating-thickness-guages-2247272.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/benchtop-coating-thickness-guages-2247272.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/portable-coating-thickness-gauges-mp0r-series-1310341.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/portable-coating-thickness-gauges-mp0r-series-1310341.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/beta-backscattering-method-1310342.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/beta-backscattering-method-1310342.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/coating-thickness-measurement-for-pcb.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/coating-thickness-measurement-for-pcb.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/handheld-pcb-coating-thickness-measurement-device-2580302.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/handheld-pcb-coating-thickness-measurement-device-2580302.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/phascope-pmp10-2580315.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/phascope-pmp10-2580315.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/couloscope-cms-2580310.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/couloscope-cms-2580310.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/coulometric-thickness-testing-equipment-6229827.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/coulometric-thickness-testing-equipment-6229827.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fischerscope-x-ray-xdlm-pcb-210-2580311.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/fischerscope-x-ray-xdlm-pcb-210-2580311.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/pcb-coating-thickness-measurement-2580313.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/pcb-coating-thickness-measurement-2580313.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/pcb-coating-measurement-instrument-2580314.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/pcb-coating-measurement-instrument-2580314.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fischerscope-x-ray-xulm-pcb-2580316.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/fischerscope-x-ray-xulm-pcb-2580316.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/coating-thickness-measurement-dft-meter.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/coating-thickness-measurement-dft-meter.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/dmp10-40-series-deltascope-dft-meter-10685916.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/dmp10-40-series-deltascope-dft-meter-10685916.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/handheld-gauge-for-coating-thickness-2580296.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/handheld-gauge-for-coating-thickness-2580296.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fmp100-and-150-premium-handheld-gauges-2580295.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/fmp100-and-150-premium-handheld-gauges-2580295.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/pocket-coating-thickness-gauges-2580297.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/pocket-coating-thickness-gauges-2580297.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/compact-coating-thickness-gauges-2580301.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/compact-coating-thickness-gauges-2580301.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/destructive-coating-thickness-measurement-6229828.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/destructive-coating-thickness-measurement-6229828.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/high-precision-probes-2580303.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/high-precision-probes-2580303.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/material-analysis-instruments.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/material-analysis-instruments.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/goldscope-sd-300-compact-gold-testing-machine-11388014.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/goldscope-sd-300-compact-gold-testing-machine-11388014.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/xrf-material-analysis-instrument-2580353.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/xrf-material-analysis-instrument-2580353.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/material-analysis-instrument-2580354.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/material-analysis-instrument-2580354.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/material-analysis-using-xdal-237-2580355.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/material-analysis-using-xdal-237-2580355.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/material-analysis-using-xan-250-2580357.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/material-analysis-using-xan-250-2580357.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/xrf-rohs-analysis-6385106.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/xrf-rohs-analysis-6385106.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/wires-connectors-coating-thickness-measurement.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/wires-connectors-coating-thickness-measurement.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/coating-thickness-measurement-of-connectors-2580382.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/coating-thickness-measurement-of-connectors-2580382.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/coating-thickness-measurement-for-wires-2580385.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/coating-thickness-measurement-for-wires-2580385.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/wires-coating-thickness-measurement-2580386.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/wires-coating-thickness-measurement-2580386.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/thin-coating-thickness-measurement-instrument-2580387.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/thin-coating-thickness-measurement-instrument-2580387.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/coating-thickness-measurement-machine-2580383.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/coating-thickness-measurement-machine-2580383.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/coating-thickness-measurement-electroplating.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/coating-thickness-measurement-electroplating.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fischerscope-x-ray-xul-2580333.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/fischerscope-x-ray-xul-2580333.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fischerscope-xdv--2580334.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/fischerscope-xdv--2580334.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/wafer-lead-frame-coating-thickness-measurement.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/wafer-lead-frame-coating-thickness-measurement.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/coating-thickness-measurement-2580374.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/coating-thickness-measurement-2580374.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/wafer-coating-thickness-measurement-2580375.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/wafer-coating-thickness-measurement-2580375.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/lead-frame-coating-thickness-measurement-2580377.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/lead-frame-coating-thickness-measurement-2580377.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/carat-meter-gold-testing-instruments.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/carat-meter-gold-testing-instruments.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/goldscope-sd-520-dpp--2352015.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/goldscope-sd-520-dpp--2352015.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/gold-purity-testing-machine-2247273.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/gold-purity-testing-machine-2247273.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fischer-gold-tester-2583676.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/fischer-gold-tester-2583676.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/high-accuracy-goldscope-sd-515-gold-testing-machine-2352016.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/high-accuracy-goldscope-sd-515-gold-testing-machine-2352016.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/goldscope-sd-550-1935508.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/goldscope-sd-550-1935508.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/coating-thickness-measurement-bath-analysis.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/coating-thickness-measurement-bath-analysis.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fischerscope-xdl-2580278.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/fischerscope-xdl-2580278.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/bath-analysis-instrument-2580279.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/bath-analysis-instrument-2580279.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/bath-analysis-using-xdv-sdd-2580280.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/bath-analysis-using-xdv-sdd-2580280.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/bath-analysis-using-xrf-xan-250-2580281.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/bath-analysis-using-xrf-xan-250-2580281.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/micro-hardness-testing-equipment.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/micro-hardness-testing-equipment.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fischerscope-hm2000-s-2580361.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/fischerscope-hm2000-s-2580361.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/material-testing-instruments.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/material-testing-instruments.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/compact-handheld-sigmascope-smp350-electrical-conductivity-tester-226162.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/compact-handheld-sigmascope-smp350-electrical-conductivity-tester-226162.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/ferrite-content-measurement-instruments-226173.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/ferrite-content-measurement-instruments-226173.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/coulometric-method-of-coating-thickness-2247276.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/coulometric-method-of-coating-thickness-2247276.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/watches-coating-thickness-measurement-instuments.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/watches-coating-thickness-measurement-instuments.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/watches-coating-thickness-measurement-instrument-2580379.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/watches-coating-thickness-measurement-instrument-2580379.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fashion-jewellery-testing-machine-2580380.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/fashion-jewellery-testing-machine-2580380.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/pvd-cvd-coating-thickness-measurement-instrument.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/pvd-cvd-coating-thickness-measurement-instrument.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fischerscope-x-ray-xdv-sdd-2580365.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/fischerscope-x-ray-xdv-sdd-2580365.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/gold-testing-machine-2597255.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/gold-testing-machine-2597255.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fischerscope-x-ray-5000-2580371.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/fischerscope-x-ray-5000-2580371.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fischerscope-x-ray-xan-250-2580325.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/fischerscope-x-ray-xan-250-2580325.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/betascope-2580388.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/betascope-2580388.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/feritscope-dmp-30-2580394.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/feritscope-dmp-30-2580394.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/sealing-quality-.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/sealing-quality-.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/sigmascope-smp350-2580392.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/sigmascope-smp350-2580392.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/porosity-holiday-detector.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/porosity-holiday-detector.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/poroscope.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/poroscope.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/micro-hardness-tester-2247274.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/micro-hardness-tester-2247274.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/micro-hardness-measurement-instruments-226167.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/micro-hardness-measurement-instruments-226167.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/corrosion-kit.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/corrosion-kit.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/coating-thickness-edxrf.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/coating-thickness-edxrf.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/fischer-xrf-analyzer-6229829.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/fischer-xrf-analyzer-6229829.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/xrf-coating-thickness-measurement-6229831.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/xrf-coating-thickness-measurement-6229831.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/tactile-measuring-devices.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/tactile-measuring-devices.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/xrf-coating-thickness-measurement-devices.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/xrf-coating-thickness-measurement-devices.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/mp0-series-permascope-dft-meter-10686456.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/mp0-series-permascope-dft-meter-10686456.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/dmp10-40-series-isoscope-dft-meter-10685825.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/dmp10-40-series-isoscope-dft-meter-10685825.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/dmp10-40-series-dualscope-dft-meter-10685815.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/dmp10-40-series-dualscope-dft-meter-10685815.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/phascope-pmp10-dft-meter-10686185.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/phascope-pmp10-dft-meter-10686185.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/dualscope-fmp100-dft-meter-10686233.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/dualscope-fmp100-dft-meter-10686233.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/dualscope-h-fmp150-dft-meter-10686248.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/dualscope-h-fmp150-dft-meter-10686248.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/mp0-series-dualscope-dft-meter-10686394.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/mp0-series-dualscope-dft-meter-10686394.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/mp0-series-isoscope-dft-meter-10686419.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/mp0-series-isoscope-dft-meter-10686419.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/automation.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/automation.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/nanoindentation.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/nanoindentation.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/send_inquiry_popup.html?catalog_id=
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/send_inquiry_popup.html?catalog_id= (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=2583678
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=2583678 (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/images/product-detail-img.png
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/images/product-detail-img.png (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/get_catalog_product_details.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/get_catalog_product_details.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/get_logindetails.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/get_logindetails.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/save_inquiry_form.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/save_inquiry_form.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/save_extra_form.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/save_extra_form.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/send_inquiry_otp.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/send_inquiry_otp.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/update_inquiry_form.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/update_inquiry_form.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/sitemap.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/sitemap.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/utils/sms_now.html?id=ID__1443006__1730398__CATALOG__1024__Catalogs
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/utils/sms_now.html?id=ID__1443006__1730398__CATALOG__1024__Catalogs (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/save_quick_inquiry.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/save_quick_inquiry.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/update_quick_inquiry.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/update_quick_inquiry.html (from https://www.fischerindia.co.in/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/ (from https://www.fischerindia.co.in/)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/company-information.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/company-information.html (from https://www.fischerindia.co.in/)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/contact-us.html?ID_15160_1024_6229828=1
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/contact-us.html?ID_15160_1024_6229828=1 (from https://www.fischerindia.co.in/)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/contact-us.html?ID_15160_942_2583676=1
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/contact-us.html?ID_15160_942_2583676=1 (from https://www.fischerindia.co.in/)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/contact-us.html?ID_15160_1024_6229831=1
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/contact-us.html?ID_15160_1024_6229831=1 (from https://www.fischerindia.co.in/)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/contact-us.html?ID_15160_1024_2583677=1
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/contact-us.html?ID_15160_1024_2583677=1 (from https://www.fischerindia.co.in/)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/contact-us.html?ID_15160_1024_2583675=1
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/contact-us.html?ID_15160_1024_2583675=1 (from https://www.fischerindia.co.in/)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/contact-us.html?ID_15160_942_2352016=1
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/contact-us.html?ID_15160_942_2352016=1 (from https://www.fischerindia.co.in/)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/contact-us.html?ID_15160_1024_226163=1
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/contact-us.html?ID_15160_1024_226163=1 (from https://www.fischerindia.co.in/)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/contact-us.html?ID_15160_1024_226175=1
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/contact-us.html?ID_15160_1024_226175=1 (from https://www.fischerindia.co.in/)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/catalog.htm
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/catalog.htm (from https://www.fischerindia.co.in/)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/Trident/
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/Trident/ (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/contact-us.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/contact-us.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/company-profile.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/company-profile.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/products.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/products.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/gold-testing-machine.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/gold-testing-machine.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/coating-thickness-measurement.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/coating-thickness-measurement.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/coating-thickness-measurement-for-pcb.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/coating-thickness-measurement-for-pcb.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/coating-thickness-measurement-dft-meter.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/coating-thickness-measurement-dft-meter.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/material-analysis-instruments.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/material-analysis-instruments.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/wires-connectors-coating-thickness-measurement.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/wires-connectors-coating-thickness-measurement.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/coating-thickness-measurement-electroplating.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/coating-thickness-measurement-electroplating.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/wafer-lead-frame-coating-thickness-measurement.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/wafer-lead-frame-coating-thickness-measurement.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/carat-meter-gold-testing-instruments.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/carat-meter-gold-testing-instruments.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/coating-thickness-measurement-bath-analysis.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/coating-thickness-measurement-bath-analysis.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/micro-hardness-testing-equipment.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/micro-hardness-testing-equipment.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/material-testing-instruments.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/material-testing-instruments.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/coulometric-method-of-coating-thickness-2247276.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/coulometric-method-of-coating-thickness-2247276.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/watches-coating-thickness-measurement-instuments.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/watches-coating-thickness-measurement-instuments.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/pvd-cvd-coating-thickness-measurement-instrument.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/pvd-cvd-coating-thickness-measurement-instrument.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/gold-testing-machine-2597255.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/gold-testing-machine-2597255.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/fischerscope-x-ray-5000-2580371.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/fischerscope-x-ray-5000-2580371.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/fischerscope-x-ray-xan-250-2580325.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/fischerscope-x-ray-xan-250-2580325.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/betascope-2580388.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/betascope-2580388.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/feritscope-dmp-30-2580394.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/feritscope-dmp-30-2580394.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/sigmascope-smp350-2580392.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/sigmascope-smp350-2580392.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/micro-hardness-tester-2247274.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/micro-hardness-tester-2247274.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/micro-hardness-measurement-instruments-226167.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/micro-hardness-measurement-instruments-226167.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/coating-thickness-edxrf.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/coating-thickness-edxrf.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/xrf-coating-thickness-measurement-devices.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/xrf-coating-thickness-measurement-devices.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/images/product-detail-img.png
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/images/product-detail-img.png (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/goldscope-sd-510-gold-testing-instrument-2583677.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/goldscope-sd-510-gold-testing-instrument-2583677.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/goldscope-sd-600-2583679.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/goldscope-sd-600-2583679.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/gold-hallmarking-machine-2583680.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/gold-hallmarking-machine-2583680.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/goldscope-sd-600-10686729.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/goldscope-sd-600-10686729.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/sealing-quality-.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/sealing-quality-.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/porosity-holiday-detector.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/porosity-holiday-detector.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/poroscope.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/poroscope.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/corrosion-kit.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/corrosion-kit.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/tactile-measuring-devices.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/tactile-measuring-devices.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/automation.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/automation.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/nanoindentation.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/nanoindentation.html (from https://www.fischerindia.co.in/hi/xrf-analyzer-for-gold-purity-testing-2583678.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/CATALOGID/gold-testing-machine.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/CATALOGID/gold-testing-machine.html (from https://www.fischerindia.co.in/gold-testing-machine.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/goldscope-sd-510-10686805.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/goldscope-sd-510-10686805.html (from https://www.fischerindia.co.in/goldscope-sd-510-10686805.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=10686805
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=10686805 (from https://www.fischerindia.co.in/goldscope-sd-510-10686805.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=2583677
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=2583677 (from https://www.fischerindia.co.in/goldscope-sd-510-gold-testing-instrument-2583677.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/goldscope-sd-515-gold-testing-machine-2583671.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/goldscope-sd-515-gold-testing-machine-2583671.html (from https://www.fischerindia.co.in/goldscope-sd-515-gold-testing-machine-2583671.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=2583671
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=2583671 (from https://www.fischerindia.co.in/goldscope-sd-515-gold-testing-machine-2583671.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=2583679
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=2583679 (from https://www.fischerindia.co.in/goldscope-sd-600-2583679.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/goldscope-sd-550-dpp--2583675.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/goldscope-sd-550-dpp--2583675.html (from https://www.fischerindia.co.in/goldscope-sd-550-dpp--2583675.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=2583675
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=2583675 (from https://www.fischerindia.co.in/goldscope-sd-550-dpp--2583675.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=2583680
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=2583680 (from https://www.fischerindia.co.in/gold-hallmarking-machine-2583680.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/gold-and-silver-testing-machine-2583674.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/gold-and-silver-testing-machine-2583674.html (from https://www.fischerindia.co.in/gold-and-silver-testing-machine-2583674.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=2583674
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=2583674 (from https://www.fischerindia.co.in/gold-and-silver-testing-machine-2583674.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/goldscope-sd-530-10686764.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/goldscope-sd-530-10686764.html (from https://www.fischerindia.co.in/goldscope-sd-530-10686764.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=10686764
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/scripts/product_details.html?product_id=10686764 (from https://www.fischerindia.co.in/goldscope-sd-530-10686764.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/CATALOGID/coating-thickness-measurement.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/Exporters_Suppliers/Exporters/hp/CATALOGID/coating-thickness-measurement.html (from https://www.fischerindia.co.in/coating-thickness-measurement.html)
+14:43:22	Warning: 	File not added due to mirror cancel: https://www.fischerindia.co.in/hi/coating-thickness-gauges-1310339.html
+14:43:22	Error: 	"mirror stopped by user" (-1) at link https://www.fischerindia.co.in/hi/coating-thickness-gauges-1310339.html (from https://www.fischerindia.co.in/coating-thickness-gauges-1310339.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 39 seconds : 198 links scanned, 21 files written (13710765 bytes overall), 21 files updated [3313482 bytes received at 84961 bytes/sec], 13711027 bytes transferred using HTTP compression in 22 files, ratio 24%
+(176 errors, 354 warnings, 0 messages)
